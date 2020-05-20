@@ -3,4 +3,4 @@ Trabalho Prático I, lecionada matéria de Resolução de Problemas Computaciona
 
 Grupo responsável:
 Vitor Reck Tavares
-Tallys Witter Fernandes dos Reis
+Tallys Witer Fernandes dos Reis
